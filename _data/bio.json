@@ -142,7 +142,7 @@
       "company": "ITI",
       "position": "Trainee",
       "website": "iti.gov.eg",
-      "startDate": "Oct 2016",
+      "startDate": "2016-10-07",
       "endDate": "Present",
       "summary": "9 month Program, Intake 37, Open Source Application Development Track",
       "highlights": [
@@ -153,8 +153,8 @@
       "company": "Elaard News",
       "position": "Graphic Designer",
       "website": "elaard.com",
-      "startDate": "Feb 2015",
-      "endDate": "Jun 2016",
+      "startDate": "2015-02-01",
+      "endDate": "2016-05-01",
       "summary": "",
       "highlights": [
         "Create appealing designs for the website",
@@ -164,8 +164,8 @@
     {
       "company": "Sphinx Academy",
       "position": "Graphics design instructor",
-      "startDate": "Feb 2015",
-      "endDate": "Jun 2016",
+      "startDate": "2015-02-01",
+      "endDate": "2016-05-01",
       "highlights": [
         "Teach Graphic Desgin Software ( PhotoShop , Illustrator , InDesign )",
       ]
