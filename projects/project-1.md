@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/salavel.jpg
 title: Salavel
 permalink: projects/salavel
 date: 2017
