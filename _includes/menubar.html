@@ -1,4 +1,4 @@
-<!-- Used by all builtin themes. Now we list number of essays and projects. -->
+<!-- Used by all builtin themes. Now we list numberarticlessays and projects. -->
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
