@@ -24,6 +24,7 @@ this project was created as an assignment for javascript course at ITI (open sou
 ### Development
 Want to contribute? Great!
 this game developed with java script (no external tools or liberaries)
+
 ###Github[Repo](https://github.com/salamaashoush/Simple-Javascript-Breakout-Game)
 ##### Big Thanks to [Ahmed Moawad](https://github.com/AhmedMoawad)
 ###Demo[Play](https://salamaashoush.github.io/Simple-Javascript-Breakout-Game/)
