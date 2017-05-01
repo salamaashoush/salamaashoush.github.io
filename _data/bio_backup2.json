@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Salama Ashoush",
+    "label": "Fullstack Web Developer",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "salamaashoush@gmail.com",
+    "phone": "+201008601611",
+    "website": "salamaashoush.me",
+    "summary": "",
+    "location": {
+      "address": "21 nawal st",
+      "postalCode": "12611",
+      "city": "Giza",
+      "countryCode": "Egypt",
+      "region": "Giza"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "salamaashoush",
+        "url": "http://github.com/salamaashoush"
+      },
+      {
+        "network": "linkedin",
+        "username": "salamaashoush",
+        "url": "http://linkedin.com/in/salamaashoush"
+      },
+      {
+        "network": "twitter",
+        "username": "salamaashoush",
+        "url": "http://twitter.com/salamaashoush"
+      },
+      {
+        "network": "facebook",
+        "username": "salamaashoush",
+        "url": "http://facebook.com/salamaashoush"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "JavaScript",
+        "Node Js",
+        "HTML5",
+        "CSS3" ,
+        "PHP",
+        "Python",
+        "Ruby On Rails",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+        "Linux" ,
+        "Bash" ,
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+        "PhotoShop" ,
+        "Illustrator" ,
+        "InDesign" ,
+        "Krita" ,
+        "Scribus" ,
+        "Gimp" ,
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "3D Animation",
+      "keywords": [
+        "Blender",
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Node Js",
+        "Express",
+        "SailsJs",
+        "React",
+        "VueJs",
+        "Angular",
+        "HTML5",
+        "CSS3" ,
+        "Sass" ,
+        "PHP",
+        "Laravel",
+        "Python",
+        "Django",
+        "Ruby On Rails"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "MySQL",
+        "Mongodb",
+        "Redis",
+        "Mocha/Jasmine/Karma",
+        "PHPUnit",
+        "Git/GitHub",
+        "Bash",
+        "Heroku",
+        "Docker",
+        "Vim" ,
+        "Npm & Yarn",
+        "Webpack"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Abasia Institute.",
+      "area": "Management information systems (MIS)",
+      "studyType": "B.S.",
+      "gpa": "Very Good",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Information Technology Institute (ITI)",
+      "area": "Open Source Applications Development",
+      "studyType": "Diploma"
+    }
+
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}

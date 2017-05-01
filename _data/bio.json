@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Salama Ashoush",
+    "label": "Fullstack Web Developer",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "salamaashoush@gmail.com",
+    "phone": "+201008601611",
+    "website": "salamaashoush.me",
+    "summary": "",
+    "location": {
+      "address": "21 nawal st",
+      "postalCode": "12611",
+      "city": "Giza",
+      "countryCode": "Egypt",
+      "region": "Giza"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "salamaashoush",
+        "url": "http://github.com/salamaashoush"
+      },
+      {
+        "network": "linkedin",
+        "username": "salamaashoush",
+        "url": "http://linkedin.com/in/salamaashoush"
+      },
+      {
+        "network": "twitter",
+        "username": "salamaashoush",
+        "url": "http://twitter.com/salamaashoush"
+      },
+      {
+        "network": "facebook",
+        "username": "salamaashoush",
+        "url": "http://facebook.com/salamaashoush"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "JavaScript",
+        "Node Js",
+        "HTML5",
+        "CSS3" ,
+        "PHP",
+        "Python",
+        "Ruby On Rails",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+        "Linux" ,
+        "Bash" ,
+        "Ubuntu"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+        "PhotoShop" ,
+        "Illustrator" ,
+        "InDesign" ,
+        "Krita" ,
+        "Scribus" ,
+        "Gimp" ,
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "3D Animation",
+      "keywords": [
+        "Blender",
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Node Js",
+        "Express",
+        "SailsJs",
+        "React",
+        "VueJs",
+        "Angular",
+        "HTML5",
+        "CSS3" ,
+        "Sass" ,
+        "PHP",
+        "Laravel",
+        "Python",
+        "Django",
+        "Ruby On Rails"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "MySQL",
+        "Mongodb",
+        "Redis",
+        "Mocha/Jasmine/Karma",
+        "PHPUnit",
+        "Git/GitHub",
+        "Bash",
+        "Heroku",
+        "Docker",
+        "Vim" ,
+        "Npm & Yarn",
+        "Webpack"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Abasia Institute.",
+      "area": "Management information systems (MIS)",
+      "studyType": "B.S.",
+      "gpa": "Very Good",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Information Technology Institute (ITI)",
+      "area": "Open Source Applications Development",
+      "studyType": "Diploma"
+    }
+
+  ],
+  "work": [
+    {
+      "company": "ITI",
+      "position": "Trainee",
+      "website": "iti.gov.eg",
+      "startDate": "Oct 2016",
+      "endDate": "Present",
+      "summary": "9 month Program, Intake 37, Open Source Application Development Track",
+      "highlights": [
+        "Studying All Open Source Related Web Technologies",
+      ]
+    },
+    {
+      "company": "Elaard News",
+      "position": "Graphic Designer",
+      "website": "elaard.com",
+      "startDate": "Feb 2015",
+      "endDate": "Jun 2016",
+      "summary": "",
+      "highlights": [
+        "Create appealing designs for the website",
+        "Find new design ideas for ads"
+      ]
+    },
+    {
+      "company": "Sphinx Academy",
+      "position": "Graphics design instructor",
+      "startDate": "Feb 2015",
+      "endDate": "Jun 2016",
+      "highlights": [
+        "Teach Graphic Desgin Software ( PhotoShop , Illustrator , InDesign )",
+      ]
+    }
+  ]
+}
