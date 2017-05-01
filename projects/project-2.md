@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jsbreakout.png
-title: Salavel
+title: ITI Breakout
 permalink: projects/jsbreakout
 date: 2017
 labels:
