@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/salavel.jpg
+image: images/salavel.jpeg
 title: Salavel
 permalink: projects/salavel
 date: 2017
